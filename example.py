@@ -1,1 +1,1 @@
-print
+printdüz
